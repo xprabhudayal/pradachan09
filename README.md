@@ -1,11 +1,31 @@
-- 👋 Hi, I’m PRABHUDAYAL VAISHNAV from INDIA and a content creator in youtube : @minoprod
+## 👋 Hi, I’m PRABHUDAYAL VAISHNAV from INDIA and a content creator in youtube : @minoprod
 - 👀 I’m interested in : 
     - full stack web dev
     - automation using ai
     - android app development
-    - learning new languages as spanish, russian, mandarin, japanese, etc
+    - learning new languages as Spanish, Russian, Mandarin .. 
+
+## I know:
+
+<fieldset>
+    <legend>Coding Languages</legend>
+    <ul>
+       <li>Python</li>
+       <li>JavaScript</li>
+       <li>C and C#</li>
+    </ul>
+</fieldset>
+<br>
+<fieldset>
+    <legend>Web Development</legend>
+    <ul>
+       <li>HTML and CSS</li>
+       <li>JavaScript</li>
+       <li>React</li>
+    </ul>
+</fieldset>
     
-- 🌱 I’m currently learning HTML AND CSS (FRONTEND WEB DEV)
+- 🌱 I’m currently learning Frontend Web Dev.
 - 📫 How to reach me :
   - youtube @minoprod
   - mailto:globalprabhudayal@gmail.com
