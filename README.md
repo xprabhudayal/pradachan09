@@ -1,4 +1,5 @@
-## 👋 Hi, I’m PRABHUDAYAL VAISHNAV from INDIA and a content creator in youtube : @minoprod
+## 👋 Hi, I’m PRABHUDAYAL VAISHNAV from INDIA
+
 - 👀 I’m interested in : 
     - full stack web dev
     - automation using ai
@@ -17,7 +18,7 @@
 </fieldset>
 <br>
 <fieldset>
-    <legend>Web Development</legend>
+    <legend>Front-end Frameworks</legend>
     <ul>
        <li>HTML and CSS</li>
        <li>JavaScript</li>
