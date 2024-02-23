@@ -1,4 +1,4 @@
-## 👋 Hi, I’m PRABHUDAYAL VAISHNAV from INDIA
+## 👋PRABHUDAYAL VAISHNAV
 
 - 👀 I’m interested in : 
     - full stack web dev
@@ -27,8 +27,7 @@
 </fieldset>
     
 - 🌱 I’m currently learning Frontend Web Dev.
-- 📫 How to reach me :
-  - youtube @minoprod
+- 📫 Contact Me :
   - mailto:globalprabhudayal@gmail.com
   
 
